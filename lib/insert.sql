@@ -8,3 +8,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("I Like Trains", "entertainment", 1000, "1-23-2020", "2-23-2020"), ("Racecar", "entertainment", 2500, "1-23-2020", "2-23-2020"),
 ("How to make kickstarter?", "help", 1, "1-23-2020", "2-23-2020"), ("This", "entertainment", 1000, "1-23-2020", "2-23-2020"),
 ("That", "entertainment", 1000, "1-23-2020", "2-23-2020");
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2),
+(25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2),
+(25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2), (25, 1, 2);
