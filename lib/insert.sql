@@ -7,4 +7,4 @@ INSERT INTO projects VALUES ("Meme Wars", "entertainment", 1000, "1-23-2020", "2
 ("Homeless", "charity", 5, "1-23-2020", "2-23-2020"), ("I Like Trains", "entertainment", 1000, "1-23-2020", "2-23-2020"),
 ("Racecar", "entertainment", 2500, "1-23-2020", "2-23-2020"), ("How to make kickstarter?", "help", 1, "1-23-2020", "2-23-2020"),
 ("This", "entertainment", 1000, "1-23-2020", "2-23-2020"), ("That", "entertainment", 1000, "1-23-2020", "2-23-2020"),
-("The other", "entertainment", 1000, "1-23-2020", "2-23-2020")
+("The other", "entertainment", 1000, "1-23-2020", "2-23-2020");
